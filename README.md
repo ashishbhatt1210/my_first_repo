@@ -6,4 +6,5 @@ Hello 2
 Hello 3
 This is my first repo ever, and I'm going to learn Git and GitHub from The Coding Train youtube channel.
 This is going to add via branch 1
+This is going to add via branch 2
 
